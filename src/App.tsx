@@ -3,7 +3,7 @@ import { Route, BrowserRouter, Routes } from "react-router-dom";
 
 import Dashboard from "./pages/Dashboard";
 import LandingPage from "./pages/LandingPage";
-import SignupPage from "./pages/auth/SignupPage";
+import SignupPage from "./pages/auth/SignUpPage";
 import LoginPage from "./pages/auth/LoginPage";
 import ProtectedRoute from "./components/protectedroute";
 
